@@ -4,7 +4,7 @@
 <br>
 
 <p><img align="right" style="height:350px;" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"alt="" /></p>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 
 <br>
 
