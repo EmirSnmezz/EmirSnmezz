@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" style="height:350px;" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="" /></p>
+<p><img align="right" style="height:350px;" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"alt="" /></p>
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <br>
