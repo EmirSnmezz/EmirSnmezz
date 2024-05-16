@@ -3,7 +3,8 @@
 
 <br>
 
-<p><img align="right" style="height:350px;" src="[https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://cdnl.iconscout.com/lottie/premium/thumb/application-developer-working-on-computer-4337848-3618985.mp4)" alt="" /></p>
+<p><img align="right" style="height:350px;" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+" alt="" /></p>
 
 <br>
 
