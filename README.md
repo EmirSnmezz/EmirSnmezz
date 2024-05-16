@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning .Net Web Development and other programming languages
 
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
-
-- [![](https://visitcount.itsvg.in/api?id=EmirSnmezz&icon=0&color=12)](https://visitcount.itsvg.in)
  
 <br>
 
