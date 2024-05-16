@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" style="height:350px;" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="" /></p>
+<p><img align="right" style="height:350px;" src="[https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://cdnl.iconscout.com/lottie/premium/thumb/application-developer-working-on-computer-4337848-3618985.mp4)" alt="" /></p>
 
 <br>
 
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens" alt="JWT"> 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=asp&amp;logoColor=white" alt="Asp.Net"> 
 
 </p>
 
