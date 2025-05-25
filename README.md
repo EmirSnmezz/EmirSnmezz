@@ -53,7 +53,7 @@
 
 <br>
   
-<table border="0" align="center">
+<!--<table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=EmirSnmezz&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
